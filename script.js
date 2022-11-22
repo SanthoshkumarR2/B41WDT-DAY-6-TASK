@@ -62,7 +62,7 @@ console.log(price1.getPrice(14.7,48,1,85));
 console.log(price2.getPrice(14.7,48,1,85));
 
 
-// 5. class Movie
+// 3. class Movie
 
 
 class Movie{
